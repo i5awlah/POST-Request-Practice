@@ -46,6 +46,12 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:text="add" />
+        <Button
+            android:id="@+id/btnUpdateAndDelete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="update / delete" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
